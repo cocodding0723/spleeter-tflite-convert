@@ -1,0 +1,8 @@
+Collecting flatbuffers
+  Using cached flatbuffers-2.0-py2.py3-none-any.whl (26 kB)
+Installing collected packages: flatbuffers
+  Attempting uninstall: flatbuffers
+    Found existing installation: flatbuffers 1.12
+    Uninstalling flatbuffers-1.12:
+      Successfully uninstalled flatbuffers-1.12
+Successfully installed flatbuffers-2.0
